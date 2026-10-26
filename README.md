@@ -1,5 +1,7 @@
 # traduction-regles-jeu — skill Claude Code
 
+> **Dépôt archivé.** Cette skill fait désormais partie du plugin Claude Code [**regles-jeu**](https://github.com/vinchy1/regles-jeu) (skills `rechercher` et `traduire`), avec tout son historique. Installation : `/plugin marketplace add vinchy1/regles-jeu`, puis `/plugin install regles-jeu@regles-jeu`.
+
 Traduit en français un livret de règles de jeu de société au format PDF, depuis **n'importe quelle langue**
 (anglais, allemand, espagnol, italien, japonais…), **en gardant exactement la mise en page** : polices,
 illustrations, icônes dans le texte, encadrés, cartes reproduites, positions. Le résultat est un `<nom>_FR.pdf`
